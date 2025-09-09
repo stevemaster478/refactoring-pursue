@@ -2,7 +2,7 @@
 
 ![Pursue Logo](./frontend/pursue/public/logo.png)
 
-**Pursu(e)** è una piattaforma web moderna per la creazione e gestione di quiz multidisciplinari, adatta a utenti di qualsiasi livello. Il progetto è stato riscritto e refattorizzato dal vecchio stack PHP/MariaDB al moderno **stack MERN**: **MongoDB**, **Express.js**, **React (Next.js)** e **Node.js**, con **Tailwind CSS** per uno sviluppo frontend rapido e responsive.
+**Pursu(e)** è una piattaforma web moderna per i quiz multidisciplinari sull'ambito informatica, adatta a utenti di qualsiasi livello. Il progetto è stato riscritto e refattorizzato dal vecchio stack PHP/MariaDB al moderno **stack MERN**: **MongoDB**, **Express.js**, **React (Next.js)** e **Node.js**, con **Tailwind CSS** per uno sviluppo frontend rapido e responsive.
 
 ---
 
